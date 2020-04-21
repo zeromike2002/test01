@@ -1,6 +1,6 @@
 type: DoubleTurret
-name: Silver Turret
-description: Sprays useless silver bullets everywhere. What a mess.
+name: The Michael and Julian Turret
+description: Strongest turret.
 health: 2000
 size: 1
 reload: 4
@@ -9,7 +9,7 @@ ammoUseEffect: shellEjectSmall
 inaccuracy: 2
 rotatespeed: 12
 ammo: {
-  silver: {
+  surge alloy: {
     speed: 10
     damage: 300
     bulletWidth: 10
