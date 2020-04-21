@@ -9,7 +9,7 @@ ammoUseEffect: shellEjectSmall
 inaccuracy: 2
 rotatespeed: 12
 ammo: {
-  surge: {
+  graphite: {
     speed: 10
     damage: 300
     bulletWidth: 10
