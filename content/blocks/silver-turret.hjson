@@ -6,7 +6,7 @@ size: 1
 reload: 4
 range: 200
 ammoUseEffect: shellEjectSmall
-inaccuracy: 4
+inaccuracy: 2
 rotatespeed: 12
 ammo: {
   silver: {
@@ -20,8 +20,12 @@ ammo: {
   }
 }
 requirements: [
-  silver/40
-  copper/70
+  lead/200
+  copper/200
+  graphite/200
+  silicon/200
+  metaglass/200
+  titanium/200
 ]
 category: turret
 research: duo
