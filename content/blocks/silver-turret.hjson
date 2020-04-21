@@ -4,9 +4,9 @@ description: Sprays useless silver bullets everywhere. What a mess.
 health: 2000
 size: 1
 reload: 4
-range: 60
+range: 200
 ammoUseEffect: shellEjectSmall
-inaccuracy: 60
+inaccuracy: 4
 rotatespeed: 12
 ammo: {
   silver: {
