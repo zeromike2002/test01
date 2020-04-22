@@ -14,9 +14,9 @@ weapon: {
 		length: 0.0
 		reload: 0.5
 		bullet: {
-			lifetime: 60
+			lifetime: 80
 			speed: 5.0
-			damage: 60
+			damage: 80
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
