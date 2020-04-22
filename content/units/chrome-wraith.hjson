@@ -6,6 +6,9 @@ flying: true
 health: 5000
 engineOffset: 5.5
 range: 2000
+rotateWeapon: true
+retreatPercent: 0.0
+weaponOffsetY: 1
 weapon: {
   name: julian-blaster
   bullet: meltdownLaser
