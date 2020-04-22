@@ -5,7 +5,7 @@ requirements: [
   titanium/3
   copper/3
   lead/3
-  cash-money/3
+  cash-money/1
 ]
 category: distribution
 speed: 0.12
