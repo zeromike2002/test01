@@ -8,4 +8,14 @@ engineOffset: 5.5
 range: 160
 weapon: {
   name: chrome-blaster
+  length: 7
+  width: 5
+  reload: 4
+  shots: 1
+  alternate: false
+  bullet: meltdownLaser
+  shootSound: laserbig
+  ejectEffect: steam
+  shotDelay: 1
+  ignoreRotation: false
 }
