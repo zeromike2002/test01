@@ -1,7 +1,7 @@
 name: The Julian
 description: The king of all mechs, and the destroyer of all.
-speed: 2
-boostSpeed: 3
+speed: 4
+boostSpeed: 6
 buildPower: 4
 engineColor: "666495"
 flying: true
@@ -9,13 +9,14 @@ health: 9000
 weaponOffsetX: 4
 weapon: {
   name: chrome-blaster
-  length: 1.5
-  reload: 4
+  length: 10
+  width: 10
+  reload: 10
   alternate: true
   bullet: meltdownLaser
   shootSound: laserbig
   ejectEffect: steam
   shotDelay: 8
-  ignoreRoatation: true
+  ignoreRotation: true
   nimPlayerDist: 30
 }
