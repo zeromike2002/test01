@@ -11,7 +11,8 @@ weapon: {
   name: chrome-blaster
   length: 1.5
   reload: 4
-  alternate: false
+  alternate: true
   bullet: meltdownLaser
   shootSound: laserbig
+  ejectEffect: steam
 }
