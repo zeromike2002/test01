@@ -1,6 +1,6 @@
 type: GenericSmelter
-name: Julian's Magical Oven 
-description: Uses the mysterious power of alchemy to convert copper to other resources.
+name: Julian's Magical Bank 
+description: Uses the mysterious power of alchemy to convert copper to cash-money.
 liquidCapacity: 50
 size: 2
 hasPower: true
@@ -12,29 +12,15 @@ consumes: {
   power: 0.7
   items: {
     items: [
-      copper/1000
+      copper/1
     ]
   }
   liquid: {
-    liquid: cryofluid
+    liquid: water
     amount: 1
   }
 }
 requirements: [
-  copper/1000
-  lead/1000
-  metaglass/1000
-  thorium/1000
-  silicon/1000
-  graphite/1000
-  titanium/1000
-  surge-alloy/1000
-]
-category: crafting
-research: silver-crucible
-idleSound: respawning
-idleSoundVolume: 0.5
-outputItem: [
   copper/100
   lead/100
   metaglass/100
@@ -43,6 +29,9 @@ outputItem: [
   graphite/100
   titanium/100
   surge-alloy/100
-  plastanium/100
-  phase-fabric/100
 ]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: cash-money
