@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Julian's Magical Bank 
-description: Uses the mysterious power of alchemy to convert copper to cash-money.
+description: Uses the mysterious power of alchemy to convert resources to cash-money.
 liquidCapacity: 50
 size: 2
 hasPower: true
@@ -13,6 +13,9 @@ consumes: {
   items: {
     items: [
       copper/1
+      lead/1
+      plastanium/1
+      sand/1
     ]
   }
   liquid: {
