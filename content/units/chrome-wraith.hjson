@@ -3,7 +3,7 @@ name: Julian's Wraith
 description: Super strong.
 speed: 0.5
 flying: true
-health: 5500
+health: 6000
 engineOffset: 5.5
 range: 200.0
 rotateWeapon: true
@@ -12,11 +12,11 @@ weaponOffsetY: 1
 weapon: {
 		name: julian-wraith-gun
 		length: 0.0
-		reload: 20
+		reload: 16
 		bullet: {
 			lifetime: 80
 			speed: 5.0
-			damage: 300
+			damage: 400
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
