@@ -9,15 +9,15 @@ health: 9000
 weaponOffsetX: 4
 weapon: {
   name: chrome-blaster
-  length: 20
+  length: 14
   width: 5
   reload: 4
   shots: 1
-  alternate: true
+  alternate: false
   bullet: meltdownLaser
   shootSound: laserbig
   ejectEffect: steam
-  shotDelay: 30
+  shotDelay: 1
   ignoreRotation: false
   nimPlayerDist: 300
 }
