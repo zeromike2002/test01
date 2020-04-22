@@ -22,5 +22,5 @@ weapon: {
 			homingRange: 0
 			fragBullets: 0
       }
-     shootSound: shotgun
+     shootSound: boom
 }
