@@ -1,10 +1,10 @@
-name: Silver Wall
-description: A wall made of silver. Not particularly useful or interesting.
+name: Fat Stacks of Cash
+description: A wall made of cash-money. What else are you going to do with that money?
 type: Wall
-health: 600
+health: 10000
 size: 2
 requirements: [
-  silver/40
+  cash-money/100
 ]
 category: defense
 research: copper-wall
