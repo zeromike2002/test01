@@ -12,9 +12,9 @@ weapon: {
 		length: 0.0
 		reload: 30
 		bullet: {
-			lifetime: 80
+			lifetime: 90
 			speed: 8.0
-			damage: 2000
+			damage: 1000
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
