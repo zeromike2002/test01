@@ -1,23 +1,26 @@
-name: Chrome Wraith Factory
-description: Makes Chrome Wraith units.
+name: Julian's Wraith Factory
+description: Makes Julain's Wraith.
 type: UnitFactory
 unitType: chrome-wraith
 size: 2
 produceTime: 350
+maxSpawn: 1
 consumes: {
   power: 0.5
   items: {
     items: [
-      silicon/10
-      silver/5
+      surge-alloy/1000
+      pyratite/1000
     ]
   }
 }
 category: units
 research: wraith-factory
 requirements: [
-  silver/70
-  electrum/40
-  silicon/40
-  titanium/20
+  copper/2000
+  lead/2000
+  graphite/2000
+  silicon/2000
+  metaglass/2000
+  titanium/2000  
 ]
