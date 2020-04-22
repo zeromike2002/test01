@@ -1,4 +1,4 @@
-type: flyingUnit
+type: HoverUnit
 name: Julian's Wraith
 description: Super strong.
 speed: 1.0
