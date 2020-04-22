@@ -13,7 +13,7 @@ consumes: {
   }
 }
 requirements: [
-  electrum/80
+  cash-money/80
   silicon/40
   graphite/20
 ]
