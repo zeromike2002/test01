@@ -1,10 +1,9 @@
 type: GenericCrafter
 name: Julian's Magical Bank 
 description: Uses the mysterious power of alchemy to convert resources to cash-money.
-liquidCapacity: 50
 size: 2
 hasPower: true
-hasLiquids: true
+hasLiquids: false
 hasItems: true
 craftTime: 60
 updateEffect: smeltsmoke
