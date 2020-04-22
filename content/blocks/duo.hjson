@@ -10,7 +10,7 @@ ammo: {
   silicon: standardHoming
   
   //define a custom type with different properties
-  electrum: {
+  cash-money: {
     //move 6 world units per frame (very fast)
     speed: 6.0
     damage: 30
@@ -21,7 +21,7 @@ ammo: {
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    //2 bullets per electrum item
+    //2 bullets per cash-money item
     ammoMultiplier: 2
     //visual bullet front and back
     backColor: ac7349
