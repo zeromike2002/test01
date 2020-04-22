@@ -1,6 +1,6 @@
 type: DoubleTurret
-name: The Michael and Julian Turret
-description: Strongest turret.
+name: The Julian Turret
+description: The master of all turrets and main defense of The Julian.
 health: 3000
 size: 1
 reload: 4
