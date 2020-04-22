@@ -12,11 +12,11 @@ weaponOffsetY: 1
 weapon: {
 		name: julian-wraith-gun
 		length: 0.0
-		reload: 1.0
+		reload: 0.5
 		bullet: {
-			lifetime: 50
-			speed: 4.0
-			damage: 40
+			lifetime: 60
+			speed: 5.0
+			damage: 60
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
