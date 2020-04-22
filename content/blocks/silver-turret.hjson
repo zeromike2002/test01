@@ -10,6 +10,15 @@ inaccuracy: 2
 rotatespeed: 12
 ammo: {
   graphite: {
+    speed: 6
+    damage: 70
+    bulletWidth: 4
+    bulletHeight: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+  surge-alloy: {
     speed: 10
     damage: 300
     bulletWidth: 10
@@ -20,12 +29,13 @@ ammo: {
   }
 }
 requirements: [
-  lead/200
-  copper/200
-  graphite/200
-  silicon/200
-  metaglass/200
-  titanium/200
+  lead/2000
+  copper/2000
+  graphite/2000
+  silicon/2000
+  metaglass/2000
+  titanium/2000
+  surge-alloy/1000
 ]
 category: turret
 research: duo
