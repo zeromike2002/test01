@@ -5,13 +5,9 @@ speed: 1.0
 flying: true
 health: 5000
 engineOffset: 5.5
-range: 160
+range: 200
 weapon: {
   name: chrome-blaster
-  length: 7
-  width: 5
-  reload: 4
-  alternate: false
   bullet: meltdownLaser
   shootSound: laserbig
   ejectEffect: steam
