@@ -1,6 +1,6 @@
 type: GenericSmelter
-name: Electrum Forge
-description: Combines molten silver and gold powder to produce electrum.
+name: Julian's Magical Oven 
+description: Uses the mysterious power of alchemy to convert copper to other resources.
 liquidCapacity: 50
 size: 2
 hasPower: true
@@ -12,22 +12,37 @@ consumes: {
   power: 0.7
   items: {
     items: [
-      gold-powder/2
+      copper/1000
     ]
   }
   liquid: {
-    liquid: molten-silver
+    liquid: cryofluid
     amount: 1
   }
 }
 requirements: [
-  lead/50
-  thorium/80
-  silicon/60
-  silver/50
+  copper/1000
+  lead/1000
+  metaglass/1000
+  thorium/1000
+  silicon/1000
+  graphite/1000
+  titanium/1000
+  surge-alloy/1000
 ]
 category: crafting
 research: silver-crucible
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: electrum/1
+outputItem: [
+  copper/100
+  lead/100
+  metaglass/100
+  thorium/100
+  silicon/100
+  graphite/100
+  titanium/100
+  surge-alloy/100
+  plastanium/100
+  phase-fabric/100
+]
