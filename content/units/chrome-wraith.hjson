@@ -3,9 +3,9 @@ name: Julian's Wraith
 description: Super strong.
 speed: 1.0
 flying: true
-health: 5000
+health: 5500
 engineOffset: 5.5
-range: 2000
+range: 140.0
 rotateWeapon: true
 retreatPercent: 0.0
 weaponOffsetY: 1
@@ -16,7 +16,7 @@ weapon: {
 		bullet: {
 			lifetime: 50
 			speed: 4.0
-			damage: 20
+			damage: 40
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
