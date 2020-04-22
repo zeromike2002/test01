@@ -18,10 +18,6 @@ consumes: {
       sand/1
     ]
   }
-  liquid: {
-    liquid: water
-    amount: 1
-  }
 }
 requirements: [
   copper/100
