@@ -17,7 +17,7 @@ consumes: {
 requirements: [
   metaglass/80
   silicon/60
-  electrum/50
+  cash-money/50
 ]
 category: power
 research: silver-crucible
