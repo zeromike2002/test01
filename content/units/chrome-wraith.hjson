@@ -1,13 +1,13 @@
-type: HoverUnit
+type: FlyingUnit
 name: Julian's Wraith
 description: Super strong.
 speed: 1.0
 flying: true
 health: 5000
 engineOffset: 5.5
-range: 200
+range: 2000
 weapon: {
-  name: chrome-blaster
+  name: julian-blaster
   bullet: meltdownLaser
   shootSound: laserbig
   ejectEffect: steam
