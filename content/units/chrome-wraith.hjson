@@ -1,11 +1,11 @@
 type: FlyingUnit
 name: Julian's Wraith
 description: Super strong.
-speed: 1.0
+speed: 0.5
 flying: true
 health: 5500
 engineOffset: 5.5
-range: 140.0
+range: 200.0
 rotateWeapon: true
 retreatPercent: 0.0
 weaponOffsetY: 1
