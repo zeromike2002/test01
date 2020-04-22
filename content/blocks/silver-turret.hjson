@@ -27,6 +27,15 @@ ammo: {
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
   }
+  cash-money: {
+    speed: 16
+    damage: 600
+    bulletWidth: 18
+    bulletHeight: 22
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    ammoMultiplier: 6
+  }
 }
 requirements: [
   lead/2000
