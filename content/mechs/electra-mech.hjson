@@ -9,7 +9,7 @@ health: 9000
 weaponOffsetX: 4
 weapon: {
   name: chrome-blaster
-  length: 14
+  length: 7
   width: 5
   reload: 4
   shots: 1
