@@ -15,6 +15,7 @@ weapon: {
   bullet: meltdownLaser
   shootSound: laserbig
   ejectEffect: steam
-  shotDelay: 2
+  shotDelay: 8
   ignoreRoatation: true
+  nimPlayerDist: 30
 }
