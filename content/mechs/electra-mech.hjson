@@ -13,4 +13,5 @@ weapon: {
   reload: 4
   alternate: false
   bullet: meltdownLaser
+  shootSound: laserbig
 }
