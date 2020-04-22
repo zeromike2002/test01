@@ -9,8 +9,8 @@ consumes: {
   power: 0.5
   items: {
     items: [
-      surge-alloy/1000
-      pyratite/1000
+      surge-alloy/950
+      pyratite/950
     ]
   }
 }
