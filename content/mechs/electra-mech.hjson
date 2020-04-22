@@ -8,16 +8,19 @@ flying: true
 health: 9000
 weaponOffsetX: 4
 weapon: {
-  name: chrome-blaster
-  length: 7
-  width: 5
-  reload: 4
-  shots: 1
-  alternate: false
-  bullet: meltdownLaser
-  shootSound: laserbig
-  ejectEffect: steam
-  shotDelay: 1
-  ignoreRotation: false
-  nimPlayerDist: 300
+    name: julian-wraith-gun
+		length: 0.0
+		reload: 0.5
+		bullet: {
+			lifetime: 80
+			speed: 8.0
+			damage: 300
+			hitTiles: true
+			frontColor: ffffff
+			backColor: ffffff
+			homingPower: 0
+			homingRange: 0
+			fragBullets: 0
+      }
+     shootSound: shotgun
 }
