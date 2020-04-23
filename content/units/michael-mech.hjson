@@ -17,7 +17,7 @@ weapon: {
 		bullet: {
 			lifetime: 90
 			speed: 8.0
-			damage: 6000
+			damage: 3000
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
