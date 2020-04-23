@@ -1,0 +1,25 @@
+name: Michael's Mech Factory
+description: Makes Michael's Mechs.
+type: UnitFactory
+unitType: michael-mech
+size: 2
+produceTime: 350
+maxSpawn: 1
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      plastanium/950
+      graphite/950
+    ]
+  }
+}
+category: units
+research: crawler-factory
+requirements: [
+  copper/2000
+  lead/2000
+  silicon/2000
+  metaglass/2000
+  titanium/2000  
+]
