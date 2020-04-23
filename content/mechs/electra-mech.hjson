@@ -21,8 +21,8 @@ weapon: {
 			speed: 8.0
 			damage: 1000
 			hitTiles: true
-			frontColor: 020aa3
-			backColor: ffffff
+			frontColor: 5762ff
+			backColor: ffae2b
 			homingPower: 0
 			homingRange: 0
 			fragBullets: 0
