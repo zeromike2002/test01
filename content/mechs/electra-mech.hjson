@@ -7,10 +7,15 @@ engineColor: "666495"
 flying: true
 health: 9000
 weaponOffsetX: 4
+engineSize: 0
+drawCell: false
+drawLight: false
 weapon: {
     name: julian-wraith-gun
 		length: 0.0
 		reload: 30
+		length: 5
+		width: 2
 		bullet: {
 			lifetime: 90
 			speed: 8.0
