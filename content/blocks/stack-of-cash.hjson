@@ -1,7 +1,7 @@
 name: Fat Stack of Cash
-description: A wall made of cash-money. What else are you going to do with that money?
+description: A wall made of cash-money. What else are you going to do with all that money?
 type: Wall
-health: 10000
+health: 12000
 size: 1
 requirements: [
   cash-money/100
