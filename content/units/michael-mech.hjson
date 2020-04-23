@@ -11,12 +11,12 @@ rotateWeapon: true
 retreatPercent: 0.0
 weaponOffsetY: 1
 weapon: {
-		name: michael-mech-gun
+		name: michael-mech-blaster
 		length: 0.0
 		reload: 60
 		bullet: {
 			lifetime: 90
-			speed: 5.0
+			speed: 6.0
 			damage: 2000
 			hitTiles: true
 			frontColor: ffffff
