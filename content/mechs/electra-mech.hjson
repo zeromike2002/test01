@@ -16,7 +16,7 @@ weapon: {
 			speed: 8.0
 			damage: 1000
 			hitTiles: true
-			frontColor: ffffff
+			frontColor: 020aa3
 			backColor: ffffff
 			homingPower: 0
 			homingRange: 0
