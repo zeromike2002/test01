@@ -7,7 +7,7 @@ consumes: {
   power: 0.7
 }
 category: upgrade
-research: wraith-factory
+research: omega-mech-pad
 requirements: [
   copper/999
   lead/999
