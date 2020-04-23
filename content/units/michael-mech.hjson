@@ -2,7 +2,7 @@
 type: GroundUnit
 name: Michael's Mech
 description: A friend of Mr. Silly Pants. Has health of 7777, a lucky number!
-speed: 0.5
+speed: 0.1
 health: 7777
 flying: false
 engineOffset: 5.5
