@@ -4,6 +4,7 @@ name: Michael's Mech
 description: A friend of Mr. Silly Pants. Has health of 7777, a lucky number!
 speed: 0.5
 health: 7777
+flying: false
 engineOffset: 5.5
 range: 200.0
 rotateWeapon: true
@@ -12,11 +13,11 @@ weaponOffsetY: 1
 weapon: {
 		name: michael-mech-gun
 		length: 0.0
-		reload: 10
+		reload: 60
 		bullet: {
 			lifetime: 90
 			speed: 5.0
-			damage: 200
+			damage: 2000
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
@@ -24,5 +25,5 @@ weapon: {
 			homingRange: 0
 			fragBullets: 0
       			}
-		shootSound: shotgun	
+		shootSound: boom	
 }
