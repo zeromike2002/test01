@@ -3,7 +3,7 @@ description: Dwarves live inside this drill. You should pay them... with beer.
 type: Drill
 size: 3
 tier: 1
-drillTime: 180
+drillTime: 60
 consumes: {
   power: 3
   liquid: {
