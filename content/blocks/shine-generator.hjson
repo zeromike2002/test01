@@ -15,7 +15,7 @@ description: Dwarves still the beer and burn it for power--a secret dwarven reci
 		}
 		liquid: {
 			liquid: beer
-			amount: 1.01
+			amount: 0.11
 		}
 	}
 	requirements: [
