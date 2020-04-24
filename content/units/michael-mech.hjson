@@ -13,11 +13,11 @@ weaponOffsetY: 1
 weapon: {
 		name: michael-mech-blaster
 		length: 0.0
-		reload: 180
+		reload: 70
 		bullet: {
 			lifetime: 90
 			speed: 12.0
-			damage: 3000
+			damage: 2000
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
