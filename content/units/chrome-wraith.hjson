@@ -17,16 +17,16 @@ weapon: {
 			type: FlakBulletType
 			lifetime: 90
 			speed: 7.0
-			damage: 30
-			splashDamageRadius: 20
-			splashDamage: 30
+			damage: 20
+			splashDamageRadius: 10
+			splashDamage: 20
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
 			homingPower: 0
 			homingRange: 0
 			fragBullets: 2
-			fragBullet: flakSurge
+			fragBullet: flakGlass
       			}
 		shootSound: shotgun	
 }
