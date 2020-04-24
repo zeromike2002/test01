@@ -2,7 +2,7 @@ name: Cash-Money Drill
 description: Dwarves live inside this drill. You should pay them... with beer.
 type: Drill
 size: 3
-tier: 1
+tier: 4
 drillTime: 60
 consumes: {
   power: 3
