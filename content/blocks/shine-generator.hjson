@@ -1,6 +1,6 @@
 type: ItemLiquidGenerator
 name: Beer-Powered Generator
-description: Dwarves still the [yellow]beer[] and burn it for power--a secret dwarven recipe for power.
+description: Dwarves still the beer and burn it for power--a secret dwarven recipe for power.
 	health: 25000
 	liquidCapacity: 100
 	size: 2
