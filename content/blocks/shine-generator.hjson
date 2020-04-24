@@ -1,5 +1,5 @@
 type: ItemLiquidGenerator
-name: Moonshine Generator
+name: Beer Generator
 description: It stills the beer then burns it for power--a secret dwarven recipe for power.
 size: 2
 hasPower: true
