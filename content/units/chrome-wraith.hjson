@@ -17,9 +17,9 @@ weapon: {
 			type: FlakBulletType
 			lifetime: 90
 			speed: 7.0
-			damage: 50
-			splashDamageRadius: 34
-			splashDamage: 50
+			damage: 30
+			splashDamageRadius: 20
+			splashDamage: 30
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
