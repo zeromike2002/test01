@@ -17,7 +17,7 @@ description: Dwarves still the [yellow]beer[] and burn it for power--a secret dw
 			liquid: beer
 			amount: 0.1
 		}
-	},
+	}
 	requirements: [
 		{ item: copper/20 }
 		{ item: lead/20 }
