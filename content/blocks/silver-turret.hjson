@@ -35,13 +35,13 @@ ammo: {
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
     ammoMultiplier: 6
+    splashDamage: 300
+    splashDamageRadius: 60
   }
 }
 requirements: [
   lead/2000
   copper/2000
-  graphite/2000
-  silicon/2000
   metaglass/2000
   titanium/2000
   surge-alloy/1000
