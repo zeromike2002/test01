@@ -1,26 +1,28 @@
 type: ItemLiquidGenerator
 name: Beer-Powered Generator
-description: Dwarves still the beer and burn it for power--a secret dwarven recipe for power.
-size: 2
-hasPower: true
-hasItems: true
-itemDuration: 30
-powerProduction: 5
-consumes: {
-  items: {
-    items: [
-       lead/1
-       ]
-     }
-  liquid: {
-    liquid: beer
-    amount: 1
-    }
-  }
-requirements: [
-  metaglass/80
-  silicon/60
-  cash-money/50
-]
+description: Dwarves still the [yellow]beer[] and burn it for power--a secret dwarven recipe for power.
+	"health": 25000,
+	"liquidCapacity": 100,
+	"size": 4,
+	"hasLiquids": true,
+	"itemDuration": 7200,
+	"powerProduction": 2000,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "lead", "amount": 1 }
+			]
+		},
+		"liquid": {
+			"liquid": "beer",
+			"amount": 0.1
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 20 },
+		{ "item": "lead", "amount": 20 },
+		{ "item": "titanium", "amount": 20 },
+		{ "item": "cash-money", "amount": 20 },
+	],
 category: power
 research: cash-money-tavern
