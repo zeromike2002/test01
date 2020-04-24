@@ -3,7 +3,7 @@ name: The Julian Turret
 description: The master of all turrets and main defense of The Julian.
 health: 3000
 size: 1
-reload: 4
+reload: 12
 range: 300
 ammoUseEffect: shellEjectSmall
 inaccuracy: 2
@@ -17,6 +17,8 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 4
+    splashDamage: 10
+    splashDamageRadius: 10
   }
   surge-alloy: {
     speed: 10
@@ -26,6 +28,8 @@ ammo: {
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     ammoMultiplier: 5
+    splashDamage: 30
+    splashDamageRadius: 20
   }
   cash-money: {
     speed: 16
@@ -35,8 +39,8 @@ ammo: {
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
     ammoMultiplier: 6
-    splashDamage: 300
-    splashDamageRadius: 60
+    splashDamage: 200
+    splashDamageRadius: 40
   }
 }
 requirements: [
