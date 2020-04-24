@@ -21,7 +21,7 @@ requirements: [
   silicon/20
 ]
 category: crafting
-research: kiln
+research: electrum-forge
 idleSound: respawning
 idleSoundVolume: 0.5
 
