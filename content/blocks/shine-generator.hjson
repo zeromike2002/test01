@@ -1,4 +1,4 @@
-type: PowerGenerator
+type: SingleTypeGenerator
 name: Beer-Powered Generator
 description: Dwarves still the beer and burn it for power--a secret dwarven recipe for power.
 	health: 25000
@@ -14,7 +14,8 @@ description: Dwarves still the beer and burn it for power--a secret dwarven reci
 			optional: true
 		}
 		liquid: {
-			liquid: [beer/1]
+			liquid: beer
+			amount: 0.01
 		}
 	}
 	requirements: [
