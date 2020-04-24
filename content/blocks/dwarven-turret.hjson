@@ -16,16 +16,16 @@ hasLiquids: true
 liquidCapacity: 30
 ammo: {
   lead: {
-    speed: 20
+    speed: 30
     lifetime: 90
     damage: 20
     bulletWidth: 4
     bulletHeight: 6
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 4
-    splashDamage: 3
-    splashDamageRadius: 30
+    ammoMultiplier: 5
+    splashDamage: 6
+    splashDamageRadius: 50
   }
 }
 requirements: [
