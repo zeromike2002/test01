@@ -1,6 +1,6 @@
 type: HoverUnit
 name: Julian's Wraith
-description: The right hand of The Julian Mech. Has health of 7777, a lucky number!
+description: Great against groups of enemies. Weaker against bosses. Has health of 7777, a lucky number!
 speed: 0.5
 flying: true
 health: 7777
@@ -16,7 +16,9 @@ weapon: {
 		bullet: {
 			lifetime: 90
 			speed: 5.0
-			damage: 200
+			damage: 50
+			splashDamageRadius: 4
+			splashDamage: 50
 			hitTiles: true
 			frontColor: ffffff
 			backColor: ffffff
