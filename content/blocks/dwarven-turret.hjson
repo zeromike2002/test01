@@ -1,0 +1,35 @@
+type: CooledTurret
+name: The Dwarven Turret
+description: Manned by mad dwarves who like to drink beer and blast things.
+health: 3000
+size: 2
+reload: 60
+range: 300
+ammoUseEffect: shellEjectSmall
+inaccuracy: 5
+coolantMultiplier: 30
+rotatespeed: 12
+hasLiquids: true
+liquidCapacity: 30
+ammo: {
+  lead: {
+    speed: 20
+    damage: 20
+    bulletWidth: 4
+    bulletHeight: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+    splashDamage: 3
+    splashDamageRadius: 30
+  }
+}
+requirements: [
+  lead/500
+  copper/500
+  metaglass/500
+  titanium/500
+  surge-alloy/100
+]
+category: turret
+research: salvo
