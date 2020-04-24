@@ -1,0 +1,9 @@
+name: Beer
+description: Drink or give to your Dwarves in the Cash-Money Drill.
+temperature: 0.01
+viscosity: 0.5
+effect: wet
+color: fff824
+flammability: 0
+heatCapacity: 1
+
