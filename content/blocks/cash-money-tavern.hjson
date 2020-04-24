@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: "Cash-Money Tavern"
 description: "Buy beer here! Spend that hard-earned cash-money for some beer!"
-liquidCapacity: 50
+liquidCapacity: 45
 outputLiquid: {
   liquid: beer
   amount: 9
@@ -9,16 +9,16 @@ outputLiquid: {
 size: 2
 hasPower: true
 hasLiquids: true
-craftTime: 10
+craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.6
+  power: 0.8
   item: cash-money
 }
 requirements: [
-  lead/50
-  copper/80
-  silicon/20
+  lead/100
+  copper/100
+  silicon/100
 ]
 category: crafting
 research: electrum-forge
