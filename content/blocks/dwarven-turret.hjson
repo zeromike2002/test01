@@ -6,6 +6,8 @@ size: 2
 reload: 60
 range: 160
 shots: 1
+targetAir: true
+targeGround: true
 ammoUseEffect: shellEjectSmall
 inaccuracy: 2
 coolantMultiplier: 30
