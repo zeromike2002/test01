@@ -7,6 +7,11 @@ hasItems: true
 itemDuration: 30
 powerProduction: 5
 consumes: {
+  items: {
+    item: [
+    lead/1
+    ]
+  }
   liquid: {
     liquid: beer
     amount: 1
