@@ -16,7 +16,7 @@ weapon: {
 		bullet: {
 			type: FlakBulletType
 			lifetime: 90
-			speed: 17.0
+			speed: 20.0
 			damage: 30
 			splashDamageRadius: 30
 			splashDamage: 30
