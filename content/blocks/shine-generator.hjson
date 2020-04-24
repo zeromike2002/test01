@@ -7,7 +7,7 @@ description: Dwarves still the beer and burn it for power--a secret dwarven reci
 	hasPower: true
 	hasLiquids: true
 	itemDuration: 60
-	powerProduction: 40.2
+	powerProduction: 55.5
 	consumes: {
 		items: {
 			items: [lead/1]
