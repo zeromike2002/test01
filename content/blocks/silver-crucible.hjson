@@ -1,10 +1,10 @@
 type: GenericCrafter
-name: "Silver Crucible"
-description: "Melts silver down for use in crafting."
+name: "Cash-Money Tavern"
+description: "Buy beer here! Spend that hard-earned cash-money for some beer!"
 liquidCapacity: 50
 outputLiquid: {
-  liquid: molten-silver
-  amount: 7
+  liquid: beer
+  amount: 9
 }
 size: 2
 hasPower: true
@@ -13,7 +13,7 @@ craftTime: 10
 updateEffect: smeltsmoke
 consumes: {
   power: 0.6
-  item: silver
+  item: cash-money
 }
 requirements: [
   lead/50
