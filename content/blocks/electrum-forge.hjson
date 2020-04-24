@@ -28,7 +28,7 @@ requirements: [
   surge-alloy/100
 ]
 category: crafting
-research: cash-money-bank
+research: kiln
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: cash-money/1
