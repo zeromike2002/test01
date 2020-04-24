@@ -10,7 +10,7 @@ targetAir: true
 targetGround: true
 ammoUseEffect: shellEjectSmall
 inaccuracy: 2
-coolantMultiplier: 300
+coolantMultiplier: 60
 rotatespeed: 12
 hasLiquids: true
 liquidCapacity: 30
