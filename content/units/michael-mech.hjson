@@ -16,7 +16,7 @@ weapon: {
 		reload: 70
 		bullet: {
 			lifetime: 90
-			speed: 12.0
+			speed: 7.0
 			damage: 2000
 			hitTiles: true
 			frontColor: ffffff
