@@ -1,4 +1,4 @@
-type: CooledTurret
+type: ItemTurret
 name: The Dwarven Turret
 description: Manned by mad dwarves who like to drink beer and blast things.
 health: 3000
@@ -17,6 +17,7 @@ liquidCapacity: 30
 ammo: {
   lead: {
     speed: 20
+    lifetime: 90
     damage: 20
     bulletWidth: 4
     bulletHeight: 6
