@@ -12,7 +12,6 @@ consumes: {
     amount: 1
     }
   }
-}
 requirements: [
   metaglass/80
   silicon/60
