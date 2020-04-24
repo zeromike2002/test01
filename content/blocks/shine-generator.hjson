@@ -1,6 +1,6 @@
 type: ItemLiquidGenerator
-name: Beer Generator
-description: It stills the beer then burns it for power--a secret dwarven recipe for power.
+name: Beer-Powered Generator
+description: Dwarves still the beer and burn it for power--a secret dwarven recipe for power.
 size: 2
 hasPower: true
 hasItems: true
