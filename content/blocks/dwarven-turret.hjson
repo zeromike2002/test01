@@ -4,13 +4,13 @@ description: Manned by mad dwarves who like to drink beer and blast things.
 health: 3000
 size: 2
 reload: 60
-range: 160
+range: 360
 shots: 1
 targetAir: true
 targetGround: true
 ammoUseEffect: shellEjectSmall
 inaccuracy: 2
-coolantMultiplier: 30
+coolantMultiplier: 300
 rotatespeed: 12
 hasLiquids: true
 liquidCapacity: 30
