@@ -4,13 +4,13 @@ type: UnitFactory
 unitType: chrome-wraith
 size: 2
 produceTime: 350
-maxSpawn: 1
+maxSpawn: 3
 consumes: {
   power: 0.5
   items: {
     items: [
-      surge-alloy/950
-      pyratite/950
+      surge-alloy/400
+      pyratite/400
     ]
   }
 }
