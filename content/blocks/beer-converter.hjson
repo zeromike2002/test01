@@ -9,10 +9,10 @@ craftTime: 1
 updateEffect: smeltsmoke
 consumes: {
   power: 2.0
-  liquids: {
+  liquids: [
       liquid: beer
       amount: 0.1
-    }
+    ]
   }  
 requirements: [
   copper/100
@@ -35,3 +35,7 @@ results:
   phase-fabric/1
   thorium/1
   cash-money/1
+category: crafting
+research: electrum-forge
+idleSound: respawning
+idleSoundVolume: 0.5
