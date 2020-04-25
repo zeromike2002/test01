@@ -1,6 +1,6 @@
 type: Separator
 name: Beer Converter
-description: Sell your excess beer for materials.
+description: Trade your excess beer for materials.
 size: 2
 hasPower: true
 hasLiquids: true
@@ -13,6 +13,7 @@ consumes: {
       liquid: beer
       amount: 0.1
     }
+  }  
 requirements: [
   copper/100
   lead/100
