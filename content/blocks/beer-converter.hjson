@@ -29,12 +29,11 @@ research: kiln
 idleSound: respawning
 idleSoundVolume: 0.5
 results: [
-  silicon/1
-  metaglass/1
-  plastanium/1
-  phase-fabric/1
-  thorium/1
-  cash-money/1
+  silicon/20
+  plastanium/20
+  phase-fabric/20
+  thorium/20
+  cash-money/20
   ]
 category: crafting
 research: electrum-forge
