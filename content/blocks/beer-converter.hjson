@@ -9,8 +9,7 @@ craftTime: 1
 updateEffect: smeltsmoke
 consumes: {
   power: 2.0
-  liquid: beer
-  amount: .1
+  liquid: beer/1
   }  
 requirements: [
   copper/100
