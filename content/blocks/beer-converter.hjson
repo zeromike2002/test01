@@ -1,0 +1,37 @@
+type: Separator
+name: Beer Converter
+description: Sell your excess beer for materials.
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 1
+updateEffect: smeltsmoke
+consumes: {
+  power: 2.0
+  liquids: {
+      liquid: beer
+      amount: 0.1
+    }
+requirements: [
+  copper/100
+  lead/100
+  metaglass/100
+  thorium/100
+  silicon/100
+  graphite/100
+  titanium/100
+  surge-alloy/100
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
+results:
+  silicon/1
+  metaglass/1
+  plastanium/1
+  phase-fabric/1
+  thorium/1
+  cash-money/1
+  
